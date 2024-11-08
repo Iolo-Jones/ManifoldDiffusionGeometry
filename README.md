@@ -1,9 +1,9 @@
 # ManifoldDiffusionGeometry
 
-
-
 Code for "Manifold Diffusion Geometry: Curvature, Tangent Spaces, and Dimension"
 https://arxiv.org/abs/2411.04100
+
+![](https://github.com/Iolo-Jones/ManifoldDiffusionGeometry/blob/main/bundle_gif.gif)
 
 This work builds on the programme of "diffusion geometry" introduced in https://arxiv.org/abs/2405.10858 and applies those methods to the special case of manifolds.
 
